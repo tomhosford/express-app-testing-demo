@@ -17,7 +17,6 @@ Note that this app only focuses on server-side JavaScript testing.
 * Run server with `npm start` and go here:
 [http://localhost:3000/](http://localhost:3000/)
 
-
 ## Running Tests
 
 * Run unit and integration tests: `npm test`
